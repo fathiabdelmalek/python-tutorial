@@ -1,0 +1,20 @@
+- previous acquisitions reminder (10 mins)
+- home work solutions and discussion (10 mins)
+- theory (10 mins)
+- lists in python (30 mins)
+-- list creation
+-- list operations
+-- list methods
+-- nested list
+- exercises (20 mins)
+-- list of favorit games and movies [two sublists on a list]
+-- access specific element in the list
+-- add to it using various methods
+-- remove from it using various methods
+-- sort them in alphabetical order
+-- perform list slicing to extract a subset of elements from the list
+- Q&A period (10 mins)
+-- time for students to develop additional examples and ideas
+
+total time 90 mins
+

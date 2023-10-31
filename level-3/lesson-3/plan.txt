@@ -1,0 +1,38 @@
+- Third party modules (50 mins)
+-- pip usage
+-- data science modules
+--- numpy
+--- pandas
+--- scipy
+--- seaborn
+--- matplotlib
+-- machine and deep learning
+--- scikit-learn
+--- pytorch
+--- tensorflow
+--- keras
+-- web modules
+--- requests
+--- Django
+--- Flask
+--- pyramid
+--- FastAPI
+-- GUI modules
+--- tkinter
+--- PyQt
+--- PyGTK
+--- wxPython
+--- Kivy
+-- Security and crypto modules
+--- PyCryptodome
+--- Cryptography
+--- PyOpenSSL
+-- Others
+--- SQLAlchemy
+--- PyGame
+--- Pillow
+--- PySerial
+- Q&A period (10 mins)
+
+total time 60 mins
+

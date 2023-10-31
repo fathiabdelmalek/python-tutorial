@@ -1,0 +1,18 @@
+- introduction (5 mins)
+-- module definition and how to import it
+-- collections module
+- tuple and namedtuple (5 mins)
+- set and fronzenset (5 mins)
+- dict and defaultdict (5 mins)
+- array (5 mins)
+- queue and deque (5 mins)
+- Exercises (20 mins)
+-- define Point(x, y) using namedtuple and perform some calculations
+-- use list or array to create stack data structure
+-- create a data structure to manage people on a store
+--- contain deque
+--- each person is a dictionary
+- Q&A period (10 mins)
+
+total time 60 mins
+

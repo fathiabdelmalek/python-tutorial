@@ -1,0 +1,12 @@
+- introduction to databases and sql (5 mins)
+- sqlite basics (10 mins)
+- crud operations (15 mins)
+- advanced queries (15 mins)
+- handling exceptions (15 mins)
+- exercises (20 mins)
+- Q&A (10 mins)
+-- homework
+--- create a wrapper module to the sqlite3 module
+
+total time 90 mins
+

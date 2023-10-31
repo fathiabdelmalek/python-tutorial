@@ -1,0 +1,18 @@
+- theory (15 mins)
+- create and call a function (5 mins)
+- parameters and arguments (10 mins)
+- return statement (10 mins)
+- variable scope and lifetime (5 mins)
+- built-in functions (5 mins)
+- exercises (20 mins)
+-- function to calculate the area of a rectangle
+-- function that converts Celsius to Fahrenheit
+-- function to find the maximum of three numbers
+-- function to check if a number is prime
+-- function that calculates the factorial of a given number
+-- function to reverse a string
+-- function that takes a list and returns the sum of its elements
+- Q&A period (10 mins)
+
+total time of 80 mins
+

@@ -1,0 +1,22 @@
+# project idea: calculator
+. use variables to store numbers and result
+. use list to create history
+. use switch statement to chose operator
+. use if statement to check input validation
+. use for loop to deal with history
+. use while loop to create the main loop
+. use functions to perform different tasks
+. introduce `if __name__ == '__main__'` statement in this lesson
+
+# lesson time plan
+- project introduction (5 mins)
+- project structure and plan (15 mins)
+- implementation (30 mins)
+- testing and debugging (20 mins)
+-- here we learn how to debug the code
+- documentation (10 mins)
+-- here we learn about comments and documentation
+- Q&A period (10 mins)
+
+total time 90 mins
+

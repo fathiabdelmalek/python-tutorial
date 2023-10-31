@@ -1,0 +1,17 @@
+- built-in modules (50 mins)
+-- os
+-- sys
+-- random
+-- math
+-- datetime
+-- json
+-- argparse
+-- configparser
+-- collections
+-- itertools
+-- threading
+-- multiprocessing
+- Q&A period (10 mins)
+
+total time 60 mins
+

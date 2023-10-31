@@ -1,0 +1,10 @@
+- lambda function (15 mins)
+- map & filter functions (10 mins)
+- generators (10 mins)
+- decorators (10 mins)
+- args*, kwargs**, / & * in functions (15 mins)
+- exercises (20 mins)
+- Q&A period (10 mins)
+
+total time 90 mins
+

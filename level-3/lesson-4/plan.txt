@@ -1,0 +1,7 @@
+- Introduction (10 mins)
+- unittest module (20 mins)
+- pytest module (20 mins)
+- Q&A period (10 mins)
+
+total time 60 mins
+

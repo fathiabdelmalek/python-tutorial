@@ -1,0 +1,17 @@
+# project idea: music management application
+. use collection types
+. use OOP concepts to create objects
+. use recursion if needed
+. use exception handling to handle different errors
+. work with files to store, read and write the needed files
+. use sqlite3 module to manage the database
+
+# lesson time plan
+- project introduction (5 mins)
+- project structure and plan (15 mins)
+- implementation (50 mins)
+- testing and debugging (10 mins)
+- Q&A period (10 mins)
+
+total time 90 mins
+

@@ -1,0 +1,26 @@
+- Python code structure and syntax (5 mins)
+-- python syntax
+-- explain indentation concept
+- I/O (10 mins)
+-- input
+-- output
+- Data types and variables (20 mins)
+-- variables importance
+-- int
+-- float
+-- str
+-- bool
+-- None
+--- string concatination and fstring
+- Math operations (5 mins)
+- Exercises (10 mins)
+-- ask for username and age and print welcom message
+-- ask for some variables and print their types
+-- sum of numbers
+-- calculate student moyen
+-- celcius to fahrenheit and vice versa
+- Q&A period (10 mins)
+-- time for students to develop additional examples and ideas
+
+total time 60 mins
+

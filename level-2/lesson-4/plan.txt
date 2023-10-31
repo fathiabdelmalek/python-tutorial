@@ -1,0 +1,11 @@
+- inheritance (10 mins)
+- polymorphism (10 mins)
+- class and static methods (10 mins)
+- exercises (20 mins)
+-- create PolarComplexNumber and RectangularComplexNumber inherit from ComplexNumber
+-- override arethmetics methods
+-- add class methods to convert rectangular to polar and vice versa
+- Q&A period (10 mins)
+
+total time 60 mins
+

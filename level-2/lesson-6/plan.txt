@@ -1,0 +1,17 @@
+- theory (10 mins)
+- built-in exceptions (10 mins)
+- exception handling with `try` `except` (10 mins)
+- `else` and `finally` (10 mins)
+- custom exceptions and `raise` (20 mins)
+- exercises (20 mins)
+-- division by zero handling
+-- file handling
+-- input handling
+-- custom error handling [NegativeValueError]
+-- KeyboardInterrupt Exception and Exit
+- Q&A period (10 mins)
+-- homework
+--- Implement a basic login system that asks the user for a username and password. Use exceptions to handle authentication errors, such as incorrect username or password. The user has 3 attempts to login.
+
+total time 90 mins
+

@@ -1,0 +1,18 @@
+- anatomy of a recursive function (20 mins)
+-- base case
+-- recursive case
+-- recursive stack
+- basic recursion functions (20 mins)
+-- factorial
+-- fibonacci
+-- sum of numbers
+- Exercises (20 mins)
+-- calculate power of a number
+-- reverse a string
+-- GCD finder
+-- palindrome test
+-- convert decimal number into binary number
+- Q&A period (10 mins)
+
+total time 90 mins
+

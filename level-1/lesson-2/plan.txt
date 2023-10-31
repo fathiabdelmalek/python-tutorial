@@ -1,0 +1,33 @@
+- previous acquisitions reminder (5 mins)
+- if statement (20 mins)
+-- theory
+-- if
+-- else
+-- elif
+- switch statement (5 mins)
+-- object literal technique
+-- match
+- loops (20 mins)
+-- theory
+-- for
+-- while
+- break & continue (10 mins)
+- Exercises (20 mins)
+-- ask for user age and classify him (minor, adult, senior) [if elif else]
+-- check a number (positive, negative, zero). If positive, check if (even or odd) [nested if]
+-- simple calculator take two numbers and an operator [match]
+-- print all leap years [for]
+-- print first 10 prime numbers [for]
+-- find factorial of a given number [while]
+-- print fibonacci sequence up to a certain number [while]
+-- print patterns [nested loops]
+-- given a list of numbers, print all of them until you find a negative one [break]
+-- print even numbers from 1 to 20 skipping 10 [continue]
+- Q&A period (10 mins)
+-- time for students to develop additional examples and ideas
+-- homeworks
+--- calculate the roots of a quadratic equation (ax^2 + bx + c = 0)
+--- palindrome test
+
+total time 90 mins
+

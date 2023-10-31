@@ -1,0 +1,10 @@
+- introduction [class and object] (10 mins)
+- encapsulation and data hiding (10 mins)
+- getters and setters (10 mins)
+- exercises (20 mins)
+-- define ComplexNumber class
+-- hide it's parameters and create their getters and setters
+- Q&A period (10 mins)
+
+total time 60 mins
+

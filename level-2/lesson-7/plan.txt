@@ -1,0 +1,23 @@
+- open and close (10 mins)
+-- open file
+-- close file
+-- with statement
+- read and write (10 mins)
+-- read a file
+-- write into a file
+-- append into a file
+- binary files (10 mins)
+-- read a binary file
+-- write into a binary file
+-- pickle module (serialization and deserialization)
+- exercises (20 mins)
+-- read a file, count his words and print statistics
+-- write and append into a file
+-- merge two files into one file
+-- load a binary file using `pickle` and retrieve data and perform calculations
+- Q&A period (10 mins)
+-- homework
+--- create a simple basic text editor
+
+total time 60 mins
+

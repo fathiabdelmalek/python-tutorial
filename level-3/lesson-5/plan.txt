@@ -1,0 +1,10 @@
+- modules and packages definition (5 mins)
+- `__name__` variable and `if __name__ == '__main__':` statement (10 mins)
+- `__init__.py` (5 mins)
+- `setup.py` file (10 mins)
+- upload to `pypi.org` (10 mins)
+- standalone application with `pyinstaller` (10 mins)
+- Q&A period (10 mins)
+
+total time 60 mins
+
