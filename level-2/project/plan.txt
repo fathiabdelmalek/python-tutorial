@@ -1,4 +1,4 @@
-# project idea: music management application
+# project idea: books management application
 . use collection types
 . use OOP concepts to create objects
 . use recursion if needed
